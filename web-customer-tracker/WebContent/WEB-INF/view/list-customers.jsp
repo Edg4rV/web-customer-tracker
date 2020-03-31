@@ -24,7 +24,7 @@
 	
 			<div id = "content">
 			
-			<!-- put new button : Add cutomer  -->
+			<!-- put new button : Add customer  -->
 			
 			<input type="button" value="Add Customer"
 				onclick="window.location.href='showFormForAdd'; return false;"
